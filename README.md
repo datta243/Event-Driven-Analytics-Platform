@@ -134,15 +134,3 @@ Clear the operation cache.
 - **UTF-8 encoding**: Full Unicode support
 - **Type safety**: TypeScript on frontend, type hints on backend
 
-## Future Enhancements
-
-- [ ] Undo/redo stack for operations
-- [ ] Guided cleaning suggestions based on data analysis
-- [ ] Export to SQL databases
-- [ ] Batch processing multiple files
-- [ ] Advanced visualizations and charts
-- [ ] Machine learning-based data quality scoring
-
-## License
-
-Built with v0.app
